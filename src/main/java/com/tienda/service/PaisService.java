@@ -9,6 +9,7 @@ package com.tienda.service;
  * @author Lichkhing
  * 
  */
+import tutyr.IPaisService;
 import com.example.Tienda2.entity.Pais;
 import com.example.Tienda2.repository.PaisRepository;
 import java.util.List;

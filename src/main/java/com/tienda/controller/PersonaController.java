@@ -6,7 +6,7 @@ package controller
 
 import com.tienda.entity.Pais;
 import com.tienda.entity.Persona;
-import com.tienda.service.IPaisService;
+import tutyr.IPaisService;
 import com.tienda.service.IPersonaService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
